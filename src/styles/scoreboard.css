@@ -1,0 +1,17 @@
+.score-board {
+  height: 10vh;
+  padding: 0.4rem;
+  font-size: 2vw;
+}
+
+@media (max-width: 1024px) {
+  .score-board {
+    font-size: 2vw;
+  }
+}
+
+@media (max-width: 425px) {
+  .score-board {
+    font-size: 4vw;
+  }
+}
