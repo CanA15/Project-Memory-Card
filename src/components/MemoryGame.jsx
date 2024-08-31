@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import CardContainer from "./cardContainer";
+import CardContainer from "./CardContainer";
 import ScoreBoard from "./ScoreBoard";
 
 export default function MemoryGame() {
